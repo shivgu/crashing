@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: watsonagent
+spec:
+  selector:
+    matchLabels:
+      name: watsonagent
+  template:
+    metadata:
+      labels:
+        name: watsonagent
+    spec:
+      enableServiceLinks: false
+      containers:
+        - name: watsonagent
+          image: ubuntu:18.04
+          command: [ "/bin/bash", "-c", "--" ]
+          args: [ "while true; do sleep 30; done;" ]
+          securityContext:
+              privileged: true
+          volumeMounts:
+          - mountPath: /var/log/core-dump
+            name: aks-host
+      volumes:
+        - name: aks-host
+          hostPath:
+            path: /var/log/core-dump

@@ -1,0 +1,6 @@
+watsonagent:
+  image:
+    useImagePullSecrets: false
+    pullPolicy: Always
+    repository: bonsaidev.azurecr.io/bonsai/watson-agent
+    tag: staging

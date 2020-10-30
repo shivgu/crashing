@@ -1,0 +1,12 @@
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/bin/Debug/netcoreapp3.1/netcorecrasher.deps.json
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/bin/Debug/netcoreapp3.1/netcorecrasher.runtimeconfig.json
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/bin/Debug/netcoreapp3.1/netcorecrasher.runtimeconfig.dev.json
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/bin/Debug/netcoreapp3.1/netcorecrasher.dll
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/bin/Debug/netcoreapp3.1/netcorecrasher.pdb
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/obj/Debug/netcoreapp3.1/netcorecrasher.csprojAssemblyReference.cache
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/obj/Debug/netcoreapp3.1/netcorecrasher.AssemblyInfoInputs.cache
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/obj/Debug/netcoreapp3.1/netcorecrasher.AssemblyInfo.cs
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/obj/Debug/netcoreapp3.1/netcorecrasher.csproj.CoreCompileInputs.cache
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/obj/Debug/netcoreapp3.1/netcorecrasher.dll
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/obj/Debug/netcoreapp3.1/netcorecrasher.pdb
+/Users/shivanshigupta/Projects/netcorecrasher/netcorecrasher/obj/Debug/netcoreapp3.1/netcorecrasher.genruntimeconfig.cache
